@@ -22,9 +22,10 @@ All CSV files are processed **locally on your device**.
 - Batch processing and exports occur entirely on-device
 
 ## Payments
-Subscriptions and purchases are handled by Apple via **StoreKit**.
+Purchases are handled by Apple via **StoreKit**.
 
-- We do not receive your payment information
+- DataCleaner is offered as a one-time purchase
+- We do not process or store payment information
 - Apple may collect data according to their own privacy policy
 
 ## Third Parties
