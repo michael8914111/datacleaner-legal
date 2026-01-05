@@ -1,3 +1,7 @@
+[Privacy Policy](./index.md) · [Terms of Sale](./terms.md)
+
+---
+
 # Terms of Sale
 
 Last updated: January 2026
