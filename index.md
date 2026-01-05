@@ -2,42 +2,80 @@
 
 Last updated: January 2026
 
-DataCleaner is a local macOS application designed to clean and export CSV files. Your privacy is important to us.
+DataCleaner is a macOS application designed to clean, transform, and export CSV files locally on your device. Your privacy is a core principle of this app.
+
+---
 
 ## Data Collection
+
 DataCleaner does **not** collect, store, transmit, or share any personal data.
 
+Specifically:
 - No analytics
 - No tracking
 - No logging
-- No cloud services
-- No accounts
+- No advertising identifiers
+- No accounts or user profiles
 - No third-party SDKs
+- No cloud services
 
-## File Access
-All CSV files are processed **locally on your device**.
+The developer has no access to your data.
+
+---
+
+## File Access & Processing
+
+All CSV files are processed **entirely on your Mac**.
 
 - Files are accessed only when you explicitly select them
-- No files are uploaded or transmitted off your computer
-- Batch processing and exports occur entirely on-device
+- No files are uploaded, synced, or transmitted off your device
+- Batch processing, cleaning rules, and exports all run locally
+- DataCleaner does not monitor folders or access files in the background
+
+---
 
 ## Payments
-Purchases are handled by Apple via **StoreKit**.
 
-- DataCleaner is offered as a one-time purchase
-- We do not process or store payment information
-- Apple may collect data according to their own privacy policy
+Purchases are handled exclusively by Apple through the Mac App Store using StoreKit.
 
-## Third Parties
-DataCleaner does not integrate with third-party services.
+- DataCleaner is offered as a **one-time purchase**
+- The developer does not process, store, or receive payment information
+- Apple may collect data in accordance with Apple’s own privacy policies
+
+Please refer to Apple’s Privacy Policy for details regarding App Store transactions.
+
+---
+
+## Third-Party Services
+
+DataCleaner does not integrate with any third-party services.
+
+There are:
+- No external APIs
+- No crash reporting services
+- No telemetry or diagnostics uploads
+
+---
 
 ## Data Retention
-No user data is stored or retained by DataCleaner.
 
-## Changes
-If this policy changes, the updated version will be posted at this URL.
+DataCleaner does not retain or store user data.
+
+- No CSV data is saved outside of files you explicitly export
+- No personal data is stored by the application
+- No usage history is collected
+
+---
+
+## Changes to This Policy
+
+This Privacy Policy may be updated from time to time.  
+The most current version will always be available at this URL.
+
+---
 
 ## Contact
-Questions?
 
-**michaelboling.apps@gmail.com**
+If you have questions about this Privacy Policy, you may contact:
+
+**Email:** michaelboling.apps@gmail.com
