@@ -1,3 +1,7 @@
+[Privacy Policy](./index.md) · [Terms of Sale](./terms.md)
+
+---
+
 # Privacy Policy – DataCleaner
 
 Last updated: January 2026
