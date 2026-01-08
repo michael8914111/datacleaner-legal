@@ -82,4 +82,4 @@ The most current version will always be available at this URL.
 
 If you have questions about this Privacy Policy, you may contact:
 
-**Email:** michaelboling.apps@gmail.com
+**Email:** datacleaner.support@proton.me
