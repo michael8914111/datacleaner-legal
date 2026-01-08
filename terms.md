@@ -93,4 +93,4 @@ The latest version will always be available at this URL.
 
 If you have questions about these Terms, you may contact:
 
-**Email:** michaelboling.apps@gmail.com
+**Email:** datacleaner.support@proton.me
